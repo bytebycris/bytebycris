@@ -1,6 +1,6 @@
 # 👋 Hi, I’m ByteByCris
 
-Senior Full Stack Engineer with **10+ years of experience** building scalable, production-grade **SaaS and data platforms**. I specialize in **React**, **Python**, **Node.js**, and **cloud-native architectures**, with a strong focus on **AI-driven systems** and **developer-friendly APIs**.
+Staff Software Engineer with **13+ years of experience** building scalable **backend systems, AI infrastructure, and production LLM platforms**. Expertise in distributed systems, Kubernetes-based ML serving, retrieval-augmented generation (RAG), and generative AI integration using Vertex AI and Gemini. Proven track record delivering high-availability AI services supporting millions of users across global cloud environments.
 
 ## 🚀 What I Do
 - Design and ship **end-to-end SaaS platforms** from concept to production
@@ -10,7 +10,7 @@ Senior Full Stack Engineer with **10+ years of experience** building scalable, p
 - Turn complex data into **clear, actionable insights**
 
 ## 🧠 AI & Data Expertise
-- LLM integrations (OpenAI, LLaMA, LangChain)
+- LLM integrations (Gemini, OpenAI, LLaMA, LangChain)
 - Retrieval-Augmented Generation (RAG) pipelines
 - Conversational search & intelligent assistants
 - Data platforms, analytics tooling, and event-driven systems
@@ -21,7 +21,7 @@ Senior Full Stack Engineer with **10+ years of experience** building scalable, p
 - React, TypeScript, Next.js, modern UI systems
 
 **Backend**
-- Python, Node.js, REST & GraphQL APIs
+- Golang, Java, Python, Node.js, REST & GraphQL APIs
 - Distributed systems & microservices
 
 **AI / Data**
