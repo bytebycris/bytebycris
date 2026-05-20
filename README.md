@@ -58,4 +58,4 @@ Cloud-native and scalable architectures
 - Product-minded: engineering decisions driven by user value
 
 📌 What I’m Passionate About
-Building reliable, intelligent products that transform complex data into meaningful outcomes — from petabyte-scale data pipelines to AI-powered user experiences — with clean architecture, thoughtful APIs, and great developer experience.
+Building reliable, intelligent products that transform complex data into meaningful outcomes from petabyte-scale data pipelines to AI-powered user experiences with clean architecture, thoughtful APIs, and great developer experience.
